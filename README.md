@@ -24,8 +24,11 @@ pip install opencv-python matplotlib tkinter pandas pillow pytesseract
 
 1. Clone the repository to your local machine using `git clone` command.
 2. Install the required Python libraries using `pip install` command:
-3. Run the `ocr_tool.py` script to start the application:
+3. Run the `ocr_tool.py` script to start the application
 
+![OCR-App](https://user-images.githubusercontent.com/128016488/232432891-92a2810c-e65a-4f66-95d1-bebf8caca067.png)
+
+![OCR-App-2](https://user-images.githubusercontent.com/128016488/232432937-2d733648-a44d-49b8-8719-496a50c71ecc.png)
 
 
 ## Usage
