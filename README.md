@@ -22,6 +22,9 @@ OCR Tool is a Python application for Optical Character Recognition (OCR) on imag
 2. Install the required Python libraries using `pip install` command:
 3. Run the `ocr_tool.py` script to start the application:
 
+
+[{"metadata":{"trusted":true},"cell_type":"code","source":"","execution_count":null,"outputs":[]}]
+
 ## Usage
 
 1. Click on the "Open Image" button to open an image file.
