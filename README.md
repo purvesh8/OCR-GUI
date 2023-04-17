@@ -16,6 +16,10 @@ OCR Tool is a Python application for Optical Character Recognition (OCR) on imag
 - Python 3.x installed on your system
 - Required Python libraries: cv2, matplotlib, tkinter, pandas, PIL (pillow), pytesseract
 
+pip install opencv-python matplotlib tkinter pandas pillow pytesseract
+
+
+
 ## Installation
 
 1. Clone the repository to your local machine using `git clone` command.
