@@ -23,7 +23,6 @@ OCR Tool is a Python application for Optical Character Recognition (OCR) on imag
 3. Run the `ocr_tool.py` script to start the application:
 
 
-[{"metadata":{"trusted":true},"cell_type":"code","source":"","execution_count":null,"outputs":[]}]
 
 ## Usage
 
